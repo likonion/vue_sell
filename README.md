@@ -4,15 +4,15 @@
 
 > vue2.0、vuex、vue-router、axios、webpack、eslint、better-scroll
 
+## 项目截图
 
-## 演示 
+![](./static/default.jpeg) ![](./static/comments.png)
 
-<a href="https://simonzhangiter.github.io/VueDemo_Sell_Eleme" target=_blank>在线演示戳我</a>（请使用chrome开发者手机演示模式预览）
+## 演示
 
-### 移动端演示
-扫二维码在手机上查看效果更好
+<a href="http://likonion.club/vue_sell/" target=_blank>在线演示戳我</a>（请使用chrome开发者手机演示模式预览）
 
-<img src="https://static.oschina.net/uploads/space/2017/0207/180535_4FSI_2493500.png" width="25%">
+
 
 
 ## 组件
@@ -156,16 +156,12 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-## 项目截图
-
-<img src="https://static.oschina.net/uploads/space/2017/0207/110250_3uWi_2493500.jpeg" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cloud.githubusercontent.com/assets/20501873/24188896/ff2c5910-0f1d-11e7-80c0-bc28fd84fe80.png" width="40%"/>
 
 
 
-## Donation
 
-If you find this project useful, you can buy me a cup of coffee
 
-<img width="650" src="https://static.oschina.net/uploads/space/2017/0223/201225_oQrz_2493500.jpeg" alt="">
+
+
 
 
